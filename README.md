@@ -48,8 +48,6 @@ Bonus:
 
 - Verify the contract in Etherscan
 
-https://goerli.etherscan.io/address/0x5067d9513bdBDD60f1bF1E030cAB65A3e345b918
-
 ### 4) Interact with the contract
 
 Create a script (or a Hardhat task) to query the total amount of ETH held in the contract.
